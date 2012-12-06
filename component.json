@@ -1,0 +1,7 @@
+{
+  "name": "avro-colorbox",
+  "version": "0.1",
+  "dependencies": {
+    "jquery": "~1.8.0"
+  }
+}
